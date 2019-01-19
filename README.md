@@ -1,7 +1,7 @@
 # Calculadora
 Calculadora no Python que tem várias funções.
 
-começei somente com uma calculadora simples, em inglês, que só fazia calculos simples, agóra ela esta na versão 3.0 e tem 12 funções diferentes
+começei somente com uma calculadora simples, em inglês, que só fazia calculos simples, agóra ela esta na versão 4.0 e tem 14 funções diferentes
 
 19/01/19 18:16 : trabalhando em um novo update, provavelmente se funcionar sairá ainda hoje.
 
