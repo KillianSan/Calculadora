@@ -12,3 +12,5 @@ começei somente com uma calculadora simples, em inglês, que só fazia calculos
 19/01/19 20:50 : build V4.0 está pronta e tem várias novidades e melhorias.
 
 19/01/19 21:12 : arrumado um bug irritante na build 4.0 (o programa pedia 6 ou mais vezes para inserir o primeiro e o segundo número)
+
+19/01/19 21:55 : adicionados changelogs para as builds 1.1, 2.0, 2.1, 3.0, 3.1, 3.2.0, 4.0. A partir da 4.0 todas as versões terão changelog.
