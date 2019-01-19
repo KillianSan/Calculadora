@@ -5,3 +5,4 @@ começei somente com uma calculadora simples, em inglês, que só fazia calculos
 
 19/01/19 18:16 : trabalhando em um novo update, provavelmente se funcionar sairá ainda hoje.
 19/01/19 18:32 : terminei de trabalhar na build 3.1, deixei ela mais conveniente, agóra o programa só pede 3 ou 4 números quando você seleciona uma operação que usa 3 ou 4 números.
+19/01/19 18:39 : terminei os testes, tudo funcionando perfeitamente, farei o upload em seguida.
