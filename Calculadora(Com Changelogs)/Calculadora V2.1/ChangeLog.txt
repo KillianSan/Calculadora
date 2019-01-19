@@ -1,0 +1,13 @@
+1.adicionado :
+    elif calc_denovo.upper() == 'sim':
+        calculate()
+    elif calc_denovo.upper() == 'não':
+        print('Tchau!')
+    elif calc_denovo.upper() == 'nao':
+        print('Tchau!')
+    elif calc_denovo.upper() == 'Sim':
+        calculate()
+    elif calc_denovo.upper() == 'Nao':
+        print('Tchau!')
+    elif calc_denovo.upper() == 'Não':
+        print('Tchau!')

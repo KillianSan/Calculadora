@@ -1,0 +1,20 @@
+1.menu reformado :
+--------------------------------------------------------------------------------------------------
+    Calculadora do Killian San aka Matilha San V3.2 (em andamento)
+
+    Update de cores!!! (sem cores por enquanto :/)
+
+    Versão ainda em andamento, se ocorrer bugs, por favor, deixe um comentário no GitHub.
+    
+    Por favor, escolha uma das operações e digite o simbolo dela e depois aperte ENTER:
+    
+    (+) adição            | (3+) adição de 3 números        | (4+) adição de 4 números
+    
+    (-) subtração         | (3-) subtração de 3 números     | (4-) subtração de 4 números
+    
+    (*) multiplicação     | (3*) multiplicação de 3 números | (4*) multiplicação de 4 números
+    
+    (/) divisão           | (3/) divisão de 3 números       | (4/) divisão de 4 números
+
+
+        Para reiniciar o programa, digite denovo().

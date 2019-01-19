@@ -1,0 +1,22 @@
+1.adicionado "Calculadora do Killian San aka Matilha San V3.1" ao menu
+2.adicionado:
+    if operation == '3+':
+        number_3 = int(input('Terceiro Número: '))
+    if operation == '3-':
+        number_3 = int(input('Terceiro Número: '))
+    if operation == '3*':
+        number_3 = int(input('Terceiro Número: '))
+    if operation == '3/':
+        number_3 = int(input('Terceiro Número: '))
+    if operation == '4+':
+        number_3 = int(input('Terceiro Número :'))
+        number_4 = int(input('Quarto Número: '))
+    if operation == '4-':
+        number_3 = int(input('Terceiro Número :'))
+        number_4 = int(input('Quarto Número: '))
+    if operation == '4*':
+        number_3 = int(input('Terceiro Número :'))
+        number_4 = int(input('Quarto Número: '))
+    if operation == '4/':
+        number_3 = int(input('Terceiro Número :'))
+        number_4 = int(input('Quarto Número: '))

@@ -1,0 +1,48 @@
+1.menu modificado, adicionado : 
+
+     | 3+ adição de 3 números | 4+ adição de 4 números
+    
+     | 3- subtração de 3 números | 4- subtração de 4 números
+    
+     | 3* multiplicação de 3 números | 4* multiplicação de 4 números
+    
+     | 3/ divisão de 3 números | 4/ divisão de 4 números
+
+    se você escolher uma operação de 2 ou 3 números e o programa pedir 4 numeros, não se assuste, apenas digite os numeros que você que fazer a operação e digite 0 nos outros.
+
+2.adicionado :
+
+    elif operation == '3+':
+        print('{} + {} + {} = '.format(number_1, number_2, number_3))
+        print(number_1 + number_2 + number_3)
+
+    elif operation == '3-':
+        print('{} - {} - {} = '.format(number_1, number_2, number_3))
+        print(number_1 - number_2 - number_3)
+
+    elif operation == '3*':
+        print('{} * {} * {} = '.format(number_1, number_2, number_3))
+        print(number_1 * number_2 * number_3)
+
+    elif operation == '3/':
+        print('{} / {} / {} = '.format(number_1, number_2, number_3))
+        print(number_1 / number_2 / number_3)
+
+    elif operation == '4+':
+        print('{} + {} + {} + {} = '.format(number_1, number_2, number_3, number_4))
+        print(number_1 + number_2 + number_3 + number_4)
+
+    elif operation == '4-':
+        print('{} - {} - {} - {} = '.format(number_1, number_2, number_3, number_4))
+        print(number_1 - number_2 - number_3 - number_4)
+
+    elif operation == '4*':
+        print('{} * {} * {} * {} = '.format(number_1, number_2, number_3, number_4))
+        print(number_1 * number_2 * number_3 * number_4)
+
+    elif operation == '4/':
+        print('{} / {} / {} / {} = '.format(number_1, number_2, number_3, number_4))
+        print(number_1 / number_2 / number_3 / number_4)
+
+ou seja: contas com 3 ou 4 números de uma vez só 
+

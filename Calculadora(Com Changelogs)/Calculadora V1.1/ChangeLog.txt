@@ -1,0 +1,2 @@
+1.def again(): mudado para def denovo():
+2.interface remodelada

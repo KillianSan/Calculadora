@@ -1,0 +1,16 @@
+1.adicionado :
+    elif operation == 'adição':
+        print('{} + {} = '.format(number_1, number_2))
+        print(number_1 + number_2)
+
+    elif operation == 'subtração':
+        print('{} - {} = '.format(number_1, number_2))
+        print(number_1 - number_2)
+
+    elif operation == 'multiplicação':
+        print('{} * {} = '.format(number_1, number_2))
+        print(number_1 * number_2)
+
+    elif operation == 'divisão':
+        print('{} / {} = '.format(number_1, number_2))
+        print(number_1 / number_2)

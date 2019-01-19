@@ -1,0 +1,46 @@
+1.menu reformado :
+---------------------------------------------------------------------------------------------
+    Calculadora do Killian San aka Matilha San V3.2 (em andamento)
+
+    Update de cores!!! (sem cores por enquanto :/)
+
+    Versão ainda em andamento, se ocorrer bugs, por favor, deixe um comentário no GitHub.
+    
+---------------------------------------------------------------------------------------------
+    Por favor, escolha uma das operações e digite o simbolo dela e depois aperte ENTER:       
+                                                                                              
+    (+) adição            | (3+) adição de 3 números        | (4+) adição de 4 números        
+                                                                                              
+    (-) subtração         | (3-) subtração de 3 números     | (4-) subtração de 4 números
+    
+    (*) multiplicação     | (3*) multiplicação de 3 números | (4*) multiplicação de 4 números
+    
+    (/) divisão           | (3/) divisão de 3 números       | (4/) divisão de 4 números
+
+    (1) cm para polegadas | (2) polegadas para cm           |
+
+    para as operações (1) e (2) digite 0 no "Primeiro Número" e no "Segundo Número".
+---------------------------------------------------------------------------------------------
+
+        Para reiniciar o programa, digite denovo().
+
+2.adicionado conversões de cm para polegadas e polegadas para cm
+
+3.adicionado : 
+    if operation == '1':
+        number_1 = int(input('Quantos Cm ? '))
+    if operation == '2':
+        number_1 = int(input('Quantas polegadas ? '))
+
+4.adicionado :
+    elif operation == '1':
+        print('{} / 2.54'.format(number_1, 2.54))
+        print(number_1 / 2.54)
+        calculate()
+
+    elif operation == '2':
+        print('{} * 2.54'.format(number_1, 2.54))
+        print(number_1 * 2.54)
+        calculate()
+
+5.adicionado calculate() no fim das strings que calculam, assim você não precisa reiniciar toda vez que faz um calculo.
