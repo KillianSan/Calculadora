@@ -1,6 +1,6 @@
 def calculate():
     operation = input('''
-    Calculadora do Matilha San:
+    Calculadora do Killian San aka Matilha San:
     
     Por favor, escolha uma das operações e digite o simbolo dela ou o nome e depois aperte ENTER:
     
