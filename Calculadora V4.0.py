@@ -25,43 +25,26 @@ def calculate():
 
         Para reiniciar o programa, digite denovo().
     ''')
-    if operation == '+'or '-' or '*' or '/':
-        number_1 = int(input('Primeiro Número: '))
-        number_2 = int(input('Segundo Número: '))
+    number_1 = int(input('Primeiro Número: '))
+    number_2 = int(input('Segundo Número: '))
     if operation == '3+':
-        number_1 = int(input('Primeiro Número: '))
-        number_2 = int(input('Segundo Número: '))
         number_3 = int(input('Terceiro Número: '))
     if operation == '3-':
-        number_1 = int(input('Primeiro Número: '))
-        number_2 = int(input('Segundo Número: '))
         number_3 = int(input('Terceiro Número: '))
     if operation == '3*':
-        number_1 = int(input('Primeiro Número: '))
-        number_2 = int(input('Segundo Número: '))
         number_3 = int(input('Terceiro Número: '))
     if operation == '3/':
-        number_1 = int(input('Primeiro Número: '))
-        number_2 = int(input('Segundo Número: '))
         number_3 = int(input('Terceiro Número: '))
     if operation == '4+':
-        number_1 = int(input('Primeiro Número: '))
-        number_2 = int(input('Segundo Número: '))
         number_3 = int(input('Terceiro Número :'))
         number_4 = int(input('Quarto Número: '))
     if operation == '4-':
-        number_1 = int(input('Primeiro Número: '))
-        number_2 = int(input('Segundo Número: '))
         number_3 = int(input('Terceiro Número :'))
         number_4 = int(input('Quarto Número: '))
     if operation == '4*':
-        number_1 = int(input('Primeiro Número: '))
-        number_2 = int(input('Segundo Número: '))
         number_3 = int(input('Terceiro Número :'))
         number_4 = int(input('Quarto Número: '))
     if operation == '4/':
-        number_1 = int(input('Primeiro Número: '))
-        number_2 = int(input('Segundo Número: '))
         number_3 = int(input('Terceiro Número :'))
         number_4 = int(input('Quarto Número: '))
     if operation == '1':
