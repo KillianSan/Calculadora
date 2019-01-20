@@ -1,0 +1,5 @@
+1. Adicionado a opção (4) ajuda no menu.
+2. Adicionado o menu de ajuda
+3. Adicionado ajuda em cada operação
+
+OBS: sem ajuda durante a operação *ainda* (sem previsão para ser lançada)
