@@ -14,3 +14,7 @@ começei somente com uma calculadora simples, em inglês, que só fazia calculos
 19/01/19 21:12 : arrumado um bug irritante na build 4.0 (o programa pedia 6 ou mais vezes para inserir o primeiro e o segundo número)
 
 19/01/19 21:55 : adicionados changelogs para as builds 1.1, 2.0, 2.1, 3.0, 3.1, 3.2.0, 4.0. A partir da 4.0 todas as versões terão changelog.
+
+19/01/19 22:42 : trabalhando na 5.0 "Help Edition", lançará amanhã de tarde, essa edição adicionará ajuda em todas as operações e talvez mesmo durante a operação, por enquanto eu adicionei a opção de ajuda no menu inicial, mas estou tendo problemas em saber o que escrever   O O
+ >
+ -
