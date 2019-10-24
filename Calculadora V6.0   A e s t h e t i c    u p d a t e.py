@@ -24,7 +24,7 @@ def calculate():
    |-------------------------------------------------------------------------------------|
    | Por favor, escolha uma das operações e digite o simbolo dela e depois aperte ENTER: |    
    |----------------------------------------------------------------------------------------------------------------------|                                                                                          
-   | (1) CM para Polegadas    | ()) Polegadas para CM       |  horas                          |  ajuda                    |
+   | (1) CM para Polegadas    | (2) Polegadas para CM       |  horas                          |  ajuda                    |
    | (+)adição                | (-) subtração               | (*) multiplicação               | (/) divisão               |
    | (3+) adição de 3 números | (3-) subtração de 3 números | (3*) multiplicação de 3 números | (3/) divisão de 3 números |
    | (4+) adição de 4 números | (4-) subtração de 4 números | (4*) multiplicação de 4 números | (4/) divisão de 4 números |
