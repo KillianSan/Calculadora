@@ -1,7 +1,7 @@
 # Calculadora
 Calculadora no Python que tem várias funções.
 
-começei somente com uma calculadora simples, em inglês, que só fazia calculos simples, agóra ela esta na versão 4.0 e tem 14 funções diferentes
+começei somente com uma calculadora simples, em inglês, que só fazia calculos simples, agóra ela esta na versão 6.0 e tem 16 funções com descrições detalhadas sobre todas as funções pela função "Ajuda"
 
 19/01/19 18:16 : trabalhando em um novo update, provavelmente se funcionar sairá ainda hoje.
 
@@ -20,3 +20,7 @@ começei somente com uma calculadora simples, em inglês, que só fazia calculos
 20/01/19 13:53 : ajuda está indo bem, até agóra eu programei a ajuda das operações (+),(-),(**),(/),(3+),(3-) e (3*). Ainda falta as operações (3/),(4+),(4-),(4*),(4/), cm para polegadas, polegadas para cm e raiz quadrada(que ainda não funciona).
 
 20/01/19 14:56 : Terminei e upei a build 5.0 "Help Update".
+
+24/10/2019 17:35 : Terminei parcialmente o update 6.0 "A e s t h e t i c   u p d a t e", o sub-update 6.1 vai arrumar todos os erros do 6.0.
+
+24/10/2019 17:37 : começando o desenvolvimento da versão 6.1 e mais tarde a 7.0, digamos que a versão é mais do que demais, é decimais !!!
