@@ -1,0 +1,15 @@
+Arrumados :
+
+1. arrumado vários problemas da versão 5.0
+
+2. agora a GUI é mais compacta e mais direto ao ponto
+
+3. adicionado vários elementos gráficos em todas as funções
+
+4. adicionado telas de carregamento com porcentagem
+
+Problemas :
+
+1. a função 3 (raiz quadrada) ainda não funciona
+
+2. necessário adicionar mais pontos decimais nos cálculos
