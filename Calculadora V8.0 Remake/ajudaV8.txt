@@ -1,0 +1,246 @@
+Seja Bem-Vindo a ajuda da CalculadoraV8 By Killian San!!!
+
+Aqui você encontra explicações e exemplos de todas as funções da CalculadoraV8.0.
+
+-----------------------------------------------------------------------------------
+
+Adições : 
+
+A CalculadoraV8.0 tem três tipos de adições, mas todas seguem um modelo básico, as adições na CalculadoraV8.0 funcionam somando o Primeiro Número ao Segúndo Numero na adição simples (+), já na Adição de Três Números (3+) a Calculadora V8 somará o Primeiro Número ao Segúndo Número e o resultado ao Terceiro Número, e na Adição de Quatro Números o Primeiro Número ao Segúndo Número e o resultado ao Terceiro Número e o resultado ao Quarto Número.
+
+-----------------------------------------------------------------------------------
+Adição Simples (+):
+
+A adição simples funciona somando o Primeiro Número ao Segúndo Número, após a soma ela digitará o resultado no terminal. Ao selecionar a adição simples no terminal, digite + e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Adição Simples :
+
++                     (Função de adição simples selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+16 + 10 =             (Função descrita pela calculadora)
+26                    (Resultado)
+Pressione ENTER para continuar...
+-----------------------------------------------------------------------------------
+Adição de Três Números (3+):
+
+A adição de três números funciona somando o Primeiro Número ao Segúndo Número e o resultado dessa soma ao Terceiro Número, após a soma ela digitará o resultado no terminal. Ao selecionar a adição de três números no terminal, digite 3+ e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, depois a calculadora pedirá o terceiro número, digite o número desejado em "Terceiro Número: " e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Adição de Três Números :
+
+3+                    (Função de Adição de Três Números selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+Terceiro Número: 17   (Terceiro número digitado no terminal)
+16 + 10 + 17 =        (Função descrita pela calculadora)
+43                    (resultado)
+Pressione ENTER para continuar...
+-----------------------------------------------------------------------------------
+Adição de Quatro Números (4+):
+
+A adição de quatro números funciona somando o Primeiro Número ao Segúndo Número e o resultado dessa soma ao Terceiro Número, depois o resultado ao Quarto Número, após a soma ela digitará o resultado no terminal. Ao selecionar a adição de quatro números no terminal, digite 4+ e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, depois a calculadora pedirá o terceiro número, digite o número desejado em "Terceiro Número: " e aperte ENTER, e mais uma vez, a calculadora pedirá o quarto número, digite o número desejado em "Quarto Número" e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Adição de Quatro Números :
+
+4+                    (Função de Adição de Quatro Números selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+Terceiro Número: 17   (Terceiro número digitado no terminal)
+Quarto Número: 11     (Quarto número digitado no terminal)
+16 + 10 + 17 + 11 =   (Função descrita pela calculadora)
+54                    (resultado)
+Pressione ENTER para continuar...
+
+///////////////////////////////////////////////////////////////////////////////////
+
+Subtrações :
+
+A CalculadoraV8.0 tem três tipos de subtrações, mas todas seguem um modelo básico, as subtrações na CalculadoraV8.0 funcionam subtraindo o Primeiro Número ao Segúndo Numero na subtração simples (-), já na Subtração de Três Números (3-) a Calculadora V8 subtrairá o Primeiro Número ao Segúndo Número e o resultado ao Terceiro Número, e na Subtração de Quatro Números o Primeiro Número ao Segúndo Número e o resultado ao Terceiro Número e o resultado ao Quarto Número.
+
+-----------------------------------------------------------------------------------
+Subtração Simples (-):
+
+A subtração simples funciona subtraindo o Primeiro Número ao Segúndo Número, após a subtração ela digitará o resultado no terminal. Ao selecionar a subtração simples no terminal, digite - e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Subtração Simples :
+
+-                     (Função de subtração simples selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+16 - 10 =             (Função descrita pela calculadora)
+6                     (Resultado)
+Pressione ENTER para continuar...
+-----------------------------------------------------------------------------------
+Subtração de Três Números (3-):
+
+A subtração de três números funciona subtraindo o Primeiro Número ao Segúndo Número e o resultado dessa subtração ao Terceiro Número, após a subtração ela digitará o resultado no terminal. Ao selecionar a subtração de três números no terminal, digite 3- e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, depois a calculadora pedirá o terceiro número, digite o número desejado em "Terceiro Número: " e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Subtração de Três Números :
+
+3-                    (Função de Subtração de Três Números selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+Terceiro Número: 17   (Terceiro número digitado no terminal)
+16 - 10 - 17 =        (Função descrita pela calculadora)
+-11                   (resultado)
+Pressione ENTER para continuar...
+-----------------------------------------------------------------------------------
+Subtração de Quatro Números (4+):
+
+A subtração de quatro números funciona subtraindo o Primeiro Número ao Segúndo Número e o resultado dessa subtração ao Terceiro Número, depois o resultado ao Quarto Número, após a subtração ela digitará o resultado no terminal. Ao selecionar a subtração de quatro números no terminal, digite 4- e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, depois a calculadora pedirá o terceiro número, digite o número desejado em "Terceiro Número: " e aperte ENTER, e mais uma vez, a calculadora pedirá o quarto número, digite o número desejado em "Quarto Número" e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Subtração de Quatro Números :
+
+4-                    (Função de Subtração de Quatro Números selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+Terceiro Número: 17   (Terceiro número digitado no terminal)
+Quarto Número: 11     (Quarto número digitado no terminal)
+16 - 10 - 17 - 11 =   (Função descrita pela calculadora)
+-22                   (resultado)
+Pressione ENTER para continuar...
+
+///////////////////////////////////////////////////////////////////////////////////
+
+Multiplicações :
+
+A CalculadoraV8.0 tem três tipos de multiplicações, mas todas seguem um modelo básico, as multiplicações na CalculadoraV8.0 funcionam multiplicando o Primeiro Número pelo Segúndo Numero na multiplicação simples (*), já na Multiplicação de Três Números (3*) a Calculadora V8 multiplicará o Primeiro Número pelo Segúndo Número e o resultado pelo Terceiro Número, e na Multiplicação de Quatro Números o Primeiro Número pelo Segúndo Número e o resultado pelo Terceiro Número e o resultado pelo Quarto Número.
+
+-----------------------------------------------------------------------------------
+Multiplicação Simples (*):
+
+A multiplicação simples funciona multiplicando o Primeiro Número pelo Segúndo Número, após a multiplicação ela digitará o resultado no terminal. Ao selecionar a multiplicação simples no terminal, digite * e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Multiplicação Simples :
+
+*                     (Função de Multiplicação simples selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+16 * 10 =             (Função descrita pela calculadora)
+160                   (Resultado)
+Pressione ENTER para continuar...
+-----------------------------------------------------------------------------------
+Multiplicação de Três Números (3*):
+
+A multiplicação de três números funciona multiplicando o Primeiro Número pelo Segúndo Número e o resultado dessa multiplicação pelo Terceiro Número, após a multiplicação ela digitará o resultado no terminal. Ao selecionar a multiplicação de três números no terminal, digite 3* e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, depois a calculadora pedirá o terceiro número, digite o número desejado em "Terceiro Número: " e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Multiplicação de Três Números :
+
+3*                    (Função de Multiplicação de Três Números selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+Terceiro Número: 17   (Terceiro número digitado no terminal)
+16 * 10 * 17 =        (Função descrita pela calculadora)
+2720                  (resultado)
+Pressione ENTER para continuar...
+-----------------------------------------------------------------------------------
+Subtração de Multiplicação Números (4*):
+
+A multiplicação de quatro números funciona multiplicando o Primeiro Número pelo Segúndo Número e o resultado dessa multiplicação pelo Terceiro Número, depois o resultado pelo Quarto Número, após a multiplicação ela digitará o resultado no terminal. Ao selecionar a multiplicação de quatro números no terminal, digite 4* e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, depois a calculadora pedirá o terceiro número, digite o número desejado em "Terceiro Número: " e aperte ENTER, e mais uma vez, a calculadora pedirá o quarto número, digite o número desejado em "Quarto Número" e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Multiplicação de Quatro Números :
+
+4*                    (Função de Multiplicação de Quatro Números selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+Terceiro Número: 17   (Terceiro número digitado no terminal)
+Quarto Número: 11     (Quarto número digitado no terminal)
+16 * 10 * 17 * 11 =   (Função descrita pela calculadora)
+29920                 (resultado)
+Pressione ENTER para continuar...
+
+///////////////////////////////////////////////////////////////////////////////////
+
+Divisões :
+
+A CalculadoraV8.0 tem três tipos de divisões, mas todas seguem um modelo básico, as divisões na CalculadoraV8.0 funcionam dividindo o Primeiro Número pelo Segúndo Numero na divisão simples (/), já na Divisão de Três Números (3/) a Calculadora V8 dividirá o Primeiro Número pelo Segúndo Número e o resultado pelo Terceiro Número, e na Divisão de Quatro Números o Primeiro Número pelo Segúndo Número e o resultado pelo Terceiro Número e o resultado pelo Quarto Número.
+
+-----------------------------------------------------------------------------------
+Divisão Simples (/):
+
+A divisão simples funciona dividindo o Primeiro Número pelo Segúndo Número, após a divisão ela digitará o resultado no terminal. Ao selecionar a divisão simples no terminal, digite / e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Divisão Simples :
+
+/                     (Função de divisão simples selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+16 / 10 =             (Função descrita pela calculadora)
+1.6                   (Resultado)
+Pressione ENTER para continuar...
+-----------------------------------------------------------------------------------
+Divisão de Três Números (3/):
+
+A divisão de três números funciona dividindo o Primeiro Número pelo Segúndo Número e o resultado dessa divisão pelo Terceiro Número, após a divisão ela digitará o resultado no terminal. Ao selecionar a divisão de três números no terminal, digite 3/ e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, depois a calculadora pedirá o terceiro número, digite o número desejado em "Terceiro Número: " e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Divisão de Três Números :
+
+3/                    (Função de Multiplicação de Três Números selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+Terceiro Número: 17   (Terceiro número digitado no terminal)
+16 / 10 / 17 =        (Função descrita pela calculadora)
+0.09411764705882353   (resultado)
+Pressione ENTER para continuar...
+-----------------------------------------------------------------------------------
+Subtração de Divisão Números (4/):
+
+A divisão de quatro números funciona dividindo o Primeiro Número pelo Segúndo Número e o resultado dessa divisão pelo Terceiro Número, depois o resultado pelo Quarto Número, após a divisão ela digitará o resultado no terminal. Ao selecionar a divisão de quatro números no terminal, digite 4/ e aperte ENTER, após isso a calculadora pedirá o primeiro número, digite o número desejado em "Primeiro Número: " e aperte ENTER, depois disso a calculadora pedirá o segundo número no terminal, digite o número desejado em "Segúndo Número: " e aperte ENTER, depois a calculadora pedirá o terceiro número, digite o número desejado em "Terceiro Número: " e aperte ENTER, e mais uma vez, a calculadora pedirá o quarto número, digite o número desejado em "Quarto Número" e aperte ENTER, após apertar enter o resultado aparecerá no terminal, e, quando quiser fazer outra operação, aperte ENTER quando aparecer "Pressione ENTER para continuar..." no terminal.
+
+Exemplo de Divisão de Quatro Números :
+
+4/                    (Função de Multiplicação de Quatro Números selecionada)
+Primeiro Número: 16   (Primeiro número digitado no terminal)
+Segúndo Número: 10    (Segúndo número digitado no terminal)
+Terceiro Número: 17   (Terceiro número digitado no terminal)
+Quarto Número: 11     (Quarto número digitado no terminal)
+16 / 10 / 17 / 11 =   (Função descrita pela calculadora)
+0.008556149732620321  (resultado)
+Pressione ENTER para continuar...
+
+///////////////////////////////////////////////////////////////////////////////////
+
+Conversão de Centímetros para Polegadas (1):
+
+Na conversão de CM para POL a CalculadoraV8.0 pedirá "Quantos CM ? ", aqui você digita quantos centímetros você deseja converter para polegadas, esses centímetros então serão divididos por 2.54 e o resultado aparecerá no teminal.
+
+Exemplo de Conversão de Centímetros para Polegadas :
+
+1                 (Função de Conversão de Centímetros para Polegadas selecionada)
+Quantos CM ? 16   (Quantos centímetros serão convertidos para polegadas)
+16 / 2.54         (Função descrita pela calculadora)
+6.299212598425196 (resultado)
+Pressione ENTER para continuar... 
+///////////////////////////////////////////////////////////////////////////////////
+
+Conversão de Polegadas para Centímetros (2):
+
+Na conversão de POL para CM a CalculadoraV8.0 pedirá "Quantas Polegadas ? ", aqui você digita quantas polegadas você deseja converter para centímetros, essas polegadas então serão multiplicadas por 2.54 e o resultado aparecerá no teminal.
+
+Exemplo de Conversão de Polegadas para Centímetros :
+
+2                          (Função de Conversão de Polegadas para Centímetros selecionada)
+Quantas Polegadas ? 16     (Quantas polegadas serão convertidas para centímetros)
+16 * 2.54                  (Função descrita pela calculadora)
+40.64                      (resultado)
+Pressione ENTER para continuar... 
+///////////////////////////////////////////////////////////////////////////////////
+
+Sobre:
+
+Mostra informações, comentários do desenvolvedor e o número da build.
+
+para usar a função Sobre é so digitar sobre no terminal e apertar ENTER.
+
+Exemplo : 
+
+sobre                                           (Função Sobre selecionada)
+Criado por: Killian San Calculadora Python V8.0 (Informações aparecem aqui)
+Obrigado por baixar!!!
+Pressione ENTER para continuar...
+///////////////////////////////////////////////////////////////////////////////////
+
+Ajuda :
+
+Aponta para aonde você pode achar ajuda, no caso, aqui ;)
+///////////////////////////////////////////////////////////////////////////////////
